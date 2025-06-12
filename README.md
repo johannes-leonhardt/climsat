@@ -1,6 +1,10 @@
 # ClimSat - A Diffusion Autoencoder Model for Climate-conditional Satellite Image Editing
 
-This repository will soon contain the code for our paper "ClimSat - A Diffusion Autoencoder Model for Climate-conditional Satellite Image Editing" published in Science of Remote Sensing in 2025.
+This repository contains the code for our paper "ClimSat - A Diffusion Autoencoder Model for Climate-conditional Satellite Image Editing" published in Science of Remote Sensing in 2025.
+
+## Reference
+
+Leonhardt, Johannes, Jürgen Gall, and Ribana Roscher. "ClimSat–A diffusion autoencoder model for climate-conditional satellite image editing." Science of Remote Sensing (2025): 100235. https://doi.org/10.1016/j.srs.2025.100235.
 
 ## Abstract
 
