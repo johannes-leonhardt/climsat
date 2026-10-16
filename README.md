@@ -12,4 +12,4 @@ Climatic conditions have a strong impact on the Earth's surface, especially in t
 
 ## Data
 
-For now, the data can be accessed here: https://drive.google.com/drive/folders/1Ah-IUktmOHmUW2DHWOFeADaci80R6JGe?usp=sharing.
+For now, the data can be accessed here: https://uni-bonn.sciebo.de/s/3W9aYdC3eb9x9En.
